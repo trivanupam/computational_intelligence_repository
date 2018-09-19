@@ -1,0 +1,2 @@
+# computational_intelligence_repository
+Welcome to the Computational Intelligence repository. The purpose of this repository is to act as a one stop portal where lots of useful information related to Computational Intelligence can be found both for beginners as well as advanced researchers. Please note that this repository is currently under construction. As of now, it contains the links to the tutorials and keynotes held at IEEE CEC 2017 andCEC 2018. In the near future, it will contain lots of other useful information as well.
